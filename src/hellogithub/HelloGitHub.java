@@ -27,4 +27,12 @@ public class HelloGitHub {
         return str;
     }
     
+    public String added(String str) {
+        return "GitHub";
+    }
+    
+    public String added() {
+        return "added";
+    }
+    
 }
