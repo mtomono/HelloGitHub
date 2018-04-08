@@ -31,4 +31,9 @@ public class HelloGitHubNGTest {
         assertEquals("GitHub", new HelloGitHub().get());
     }
     
+    @Test
+    public void testPut() {
+        assertEquals("GitHub", new HelloGitHub().put("GitHub"));
+    }
+    
 }
