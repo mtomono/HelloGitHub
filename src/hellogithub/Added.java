@@ -9,6 +9,6 @@ package hellogithub;
  *
  * @author masao
  */
-public class Addedx {
+public class Added {
     
 }
