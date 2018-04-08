@@ -23,7 +23,15 @@ public class HelloGitHub {
         return "GitHub";
     }
     
-    public String added() {
+    public String put(String str) {
+        return str;
+    }
+    
+    public String added(String str) {
+        return "GitHub";
+    }
+    
+   public String added() {
         return "added";
     }
     
